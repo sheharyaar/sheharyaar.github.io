@@ -1375,6 +1375,12 @@ body {
   background-repeat: no-repeat;
 }
 
+@media (max-width: 767px) {
+  .contact {
+    background-size: cover;
+  }
+}
+
 .contact--lockup {
   position: relative;
   display: -webkit-box;
