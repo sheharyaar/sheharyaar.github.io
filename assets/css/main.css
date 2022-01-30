@@ -484,6 +484,10 @@ body {
   z-index: 10;
 }
 
+.header iframe {
+  display: none;
+}
+
 .header--logo {
   display: -webkit-box;
   display: -ms-flexbox;
